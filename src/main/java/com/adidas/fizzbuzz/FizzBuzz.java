@@ -10,7 +10,7 @@ public class FizzBuzz {
 	 * 
 	 * @param number	The next number in the sequence
 	 * 
-	 * @return String	T
+	 * @return String	The right value according to the game rules
 	 */
 	public static String getValue(int number) {
 		return null;

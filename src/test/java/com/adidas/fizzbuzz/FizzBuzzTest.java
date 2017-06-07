@@ -7,8 +7,8 @@ import org.junit.Test;
 public class FizzBuzzTest {
 
 	@Test
-	public void test() {
-		fail("Not yet implemented");
+	public void getValueTest() {
+		assertEquals("It must return the same value", "1", FizzBuzz.getValue(1));
 	}
 
 }
