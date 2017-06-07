@@ -12,7 +12,7 @@ public class FizzBuzz {
 	 * 
 	 * @return String	The right value according to the game rules
 	 */
-	public static String getValue(int number) {
+	public static String getValue(Integer number) {
 		return null;
 	}
 }
